@@ -1,0 +1,144 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html{
+    font-size: 16px;
+
+}
+
+body {
+    height: 200rem;
+    margin: 4rem;
+    font-family: "Poppins", sans-serif;
+}
+
+/* header */
+header {
+    text-align: center;
+    margin-top: 8rem;
+    line-height: 2.2rem;
+}
+
+h1 {
+    font-weight: 600;
+    font-style: normal;
+    color: #4C4E61;
+    font-size: 2.5rem;
+    line-height: 4rem;
+
+}
+
+.title {
+    font-weight: 200;
+    font-style: normal;
+    font-size: 2.5rem;
+    color: #A3A5AE;
+
+}
+
+p {
+    font-weight: 200;
+    font-style: normal;
+    color: #A3A5AE;
+    line-height: 2rem;
+
+}
+
+h2 {
+    font-weight: 600;
+    font-style: normal;
+    color: #4C4E61;
+    line-height: 3rem;
+}
+
+/* section */
+.contint{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin: 3rem; */
+ align-items: center;
+justify-content: center; 
+ align-self: center;
+
+    
+}
+
+.contint-card {
+    background-color: #FAFAFA;
+    height: 15rem;
+    width: 25rem;
+    border-radius: 12px;
+    /* margin-top: 2rem; */
+    margin: 2rem;
+    padding: 1.8rem;
+    border-top: 4px solid #549EF2;
+    box-shadow: -1px 7px 9px 4px rgb(232 232 232);
+
+}
+.contint-card1{
+    margin: 2rem;
+    padding: 1.8rem;
+    box-shadow: -1px 7px 9px 4px rgb(232 232 232);
+    border-radius: 12px;
+    height: 15rem;
+    height: 15rem;
+    border-top: 4px solid #EA5353;
+
+}
+.contint-card3{
+    margin: 2rem;
+    padding: 1.8rem;
+    box-shadow: -1px 7px 9px 4px rgb(232 232 232);
+    border-radius: 12px;
+    height: 15rem;
+    height: 15rem;
+    border-top: 4px solid #FCAF4A;
+
+}
+.contint-card2{
+    margin: 2rem;
+    padding: 1.8rem;
+    box-shadow: -1px 7px 9px 4px rgb(232 232 232);
+    border-radius: 12px;
+    height: 15rem;
+    height: 15rem;
+    border-top: 4px solid #45D3D3;
+
+}
+
+
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+
+
+img {
+    margin: 0rem 1rem 1rem 17rem;
+}
+
+/* .center {
+    height: 10rem;
+    width: 25rem;
+    /* position: relative; */
+    /* top: 3rem;
+    left: 42.8rem; */
+
+
+
+/* .center-carde{
+background-color: aqua;
+margin: 1rem;
+height: 20rem;
+width: 25rem;
+border-radius: 12px;
+
+    
+} */
